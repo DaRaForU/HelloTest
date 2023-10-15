@@ -9,6 +9,5 @@
 <body>
     <h1>Hello Footer</h1>
     <hr>
-    <i>IammrB</i>
 </body>
 </html>
