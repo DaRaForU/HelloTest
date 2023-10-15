@@ -29,3 +29,6 @@ Route::get('/footer', [FooterController::class, 'welcome']);
 Route::get('/', function () {
     return view('hello');
 });
+Route::get('/', function () {
+    return view('hi');
+});
