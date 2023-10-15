@@ -10,5 +10,6 @@
     <h1>About Page</h1>
     <hr>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente explicabo itaque unde eveniet nobis doloribus, sequi ducimus distinctio maxime, quam quo autem cumque dignissimos dolorem assumenda id, ipsam nam nostrum.</p>
+    <p>Hello</p>
 </body>
 </html>
