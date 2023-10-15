@@ -25,3 +25,7 @@ Route::get('/about', [AboutController::class, 'index']);
 Route::get('/hello', [HelloConstroller::class, 'hello']);
 
 Route::get('/footer', [FooterController::class, 'welcome']);
+
+Route::get('/', function () {
+    return view('hello');
+});
